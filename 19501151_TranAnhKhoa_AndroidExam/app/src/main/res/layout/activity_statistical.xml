@@ -47,6 +47,7 @@
         android:layout_width="305dp"
         android:layout_height="46dp"
         android:layout_marginBottom="100dp"
+        android:background="@drawable/border_button"
         android:text="xác nhận"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
