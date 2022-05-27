@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687636185625",
+    "project_id": "trananhkhoa-19501151-exam",
+    "storage_bucket": "trananhkhoa-19501151-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687636185625:android:93021db4ad0f0c42e06088",
+        "android_client_info": {
+          "package_name": "com.example.a19501151_trananhkhoa_androidexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687636185625-qd6r83o1ogoe44fnt97jmatj4ji7023q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7nfAZdTV_IrD7NvdI9Ctqe5MEjvubs-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687636185625-qd6r83o1ogoe44fnt97jmatj4ji7023q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
